@@ -152,7 +152,7 @@ systemctl restart apache2
 * PhpMyAdmin: `http://phpmyadmin.localhost:1080`
 
 **Скриншоты сайтов в браузере:**
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2d225283-4980-40f3-bec1-e30c4169a868" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-03-12 043109" src="https://github.com/user-attachments/assets/ac8ea550-3187-40a4-940b-0f51af229ef0" />
 
 <img width="1919" height="1079" alt="Снимок экрана 2026-03-12 043223" src="https://github.com/user-attachments/assets/b95cb0f3-2e3a-4115-8678-6ea5db501102" />
 
